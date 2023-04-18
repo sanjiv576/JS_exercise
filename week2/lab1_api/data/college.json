@@ -1,0 +1,22 @@
+{
+    "name": "Softwarica College of IT & E-commerce",
+    "address": "Pipalbot, Dilibazar",
+    "contact": "0142323",
+    "courses": [
+        "Ethical Hacking",
+        "BSC.HONS Computing"
+    ],
+    "departments": [
+        "Academic",
+        "Marketing",
+        "Exam",
+        "IOT"
+    ],
+    "clubs": [
+        "Youth Club",
+        "Tech and Trendy",
+        "IT & Editorial",
+        "Hultz Prize",
+        "New Media"
+    ]
+}
