@@ -21,6 +21,7 @@ const deepEqual = (num1, num2) =>{
     //    }
         const num1Keys = Object.keys(num1);
         const num2Keys = Object.keys(num2);
+        console.log(num1Keys);
         for(const key of Object.keys(num1)){
             if(!num2Keys.includes(key) || !deepEqual(num1Keys[key], num2Keys[key])){
                 return false;
